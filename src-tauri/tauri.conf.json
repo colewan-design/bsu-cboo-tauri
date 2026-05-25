@@ -1,6 +1,6 @@
 {
   "productName": "BSU CBOO Payroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "identifier": "com.bsu.cboo",
   "build": {
     "frontendDist": "../frontend"
@@ -10,7 +10,7 @@
       {
         "label": "main",
         "title": "BSU CBOO Payroll System",
-        "url": "http://192.168.110.131/login",
+        "url": "http://192.168.110.85/login",
         "width": 1280,
         "height": 800,
         "minWidth": 800,
